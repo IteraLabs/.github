@@ -1,10 +1,9 @@
 ## Hello and welcome
 
-At the forefront of blockchain technology, quantitative modeling, and decentralized finance (DeFi), our boutique consultancy firm offers specialized applied research and tailored solutions. We excel in three core areas: blockchain data ETL, blockchain-based project development, and implementation of quantitative models.
+At the forefront of blockchain technology, quantitative modeling, and decentralized finance (DeFi), this organization performs research and development for open source projects in three core areas: blockchain Modeling and Data ETL, Financial Machine Learning For Quantitative Modeling, Distributed Computing and Machine Learning for GenAI.
 
-- Our blockchain data ETL services enable clients to extract valuable insights from complex on-chain data, transforming raw information into actionable intelligence. We address challenges such as high data volumes and real-time accuracy.
+Some of the current project we work on are: 
 
-- In blockchain-based project development, we guide clients from concept to deployment, leveraging our expertise to develop decentralized applications, smart contracts, and custom blockchain solutions aligned with strategic objectives.
-
-- Our quantitative model implementation brings traditional finance expertise to the DeFi landscape. We develop sophisticated models for risk assessment, crypto derivatives pricing, and trading strategy optimization, accounting for the unique characteristics of cryptocurrency markets.
-
+- [Atelier](https://github.com/iteralabs/atelier): A Computational Framework/Engine for Market Microstructure High Frequency Modeling, Synthetic Simulation and Historical Market Reconstruction/Replay.
+- [Traderman](https://github.com/iteralabs/traderman): A Python SDK to build, train, stress-test, deploy and monitor trading strategies.
+- [Molina](https://github.com/iteralabs/molina): A Rust and Python Synthetic Integration for an agentic-LLM approach to build a research agent for local knowledge representation.
