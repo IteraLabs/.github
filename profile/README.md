@@ -1,4 +1,3 @@
-## Hello 👋
 
 This organization performs research and development for open source projects in three core areas: blockchain Modeling and Data ETL, Financial Machine Learning For Quantitative Finance Topics, Distributed Computing and Learning for GenAI.
 
