@@ -1,15 +1,20 @@
+At Iteralabs we believe in one core principle: To achieve consequential engineering results, science goes before hype. 
 
-Research and development for open source projects in the intersection within the following:
+> “Most people use statistics like a drunk man uses a lamppost; more for support than illumination”
+  ― Andrew Lang
+
+And thus, we focus on statistical soundness and parametric stability for the models we use, with this hierarchical sourcing of knowledge: *statistical* learning > *machine* > *large heuristics* learning (Generative AI, which we could use, even daily, but as an optional tool not as a protagonistically, for-its-own-sake goal).
 
 # Problem space
 
-- DeFi Trading and Risk Modeling.
-- Classical ML OnChain Computations.
+- Classical ML OnChain Computation.
+- DeFi Market Making, Order Routing and Risk Modeling.
+- Synthetic OnChain-Data Generation.
 
 # Core Methods
 
-- ML and Quantitative Finance.
-- Distributed Convex Machine Learning Models.
+- Classical ML and Quantitative Finance.
+- Distributed Convex Optimization Models.
 - Financial timeseries inner-pattern recognition (subsequential clustering).
 
 # Projects
