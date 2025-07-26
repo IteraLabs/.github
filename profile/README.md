@@ -1,10 +1,19 @@
 
-This organization performs research and development for open source projects in three core areas: Financial Machine Learning For Quantitative Finance, Distributed Convex Optimization for ML, Blockchain data & computing for DeFi. 
+Research and development for open source projects in the intersection within the following:
 
-Projects:
+# Problem space
 
-- [atelier-rs](https://github.com/iteralabs/atelier-rs)
-Rust Engine for High Frequency, Synthetic and Historical, Market Microstructure Modeling.
+- DeFi Trading and Risk Modeling.
+- Classical ML OnChain Computations.
 
-- [luciene-sl](https://github.com/iteralabs/luciene-sl)
-Transparent and Stateless Agent for OnChain Risk Modeling.
+# Core Methods
+
+- ML and Quantitative Finance.
+- Distributed Convex Machine Learning Models.
+- Financial timeseries inner-pattern recognition (subsequential clustering).
+
+# Projects
+
+- [atelier-rs](https://github.com/iteralabs/atelier-rs) : Rust Engine for High Frequency, Synthetic and Historical, Market Microstructure Modeling.
+- [luciene-sl](https://github.com/iteralabs/luciene-sl) : Transparent and Stateless Agent for OnChain Risk Modeling.
+- [super-mass](https://github.com/iteralabs/luciene-sl) : Subsequential Timeseries Clustering for anomaly detection in OnChain activity (e.g. Pump-And-Dump).
