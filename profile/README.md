@@ -4,7 +4,7 @@ This organization performs research and development for open source projects in 
 Projects:
 
 - [atelier-rs](https://github.com/iteralabs/atelier-rs)
-A Computational Framework/Engine for Market Microstructure High Frequency Modeling, Synthetic Simulation and Historical Market Reconstruction/Replay.
+Rust Engine for High Frequency, Synthetic and Historical, Market Microstructure Modeling.
 
 - [luciene-sl](https://github.com/iteralabs/luciene-sl)
 Transparent and Stateless Agent for OnChain Risk Modeling.
