@@ -9,7 +9,7 @@ And thus, we focus on statistical soundness and parametric stability for the mod
 
 - Classical ML OnChain Computation.
 - DeFi Market Making, Order Routing and Risk Modeling.
-- Synthetic OnChain-Data Generation.
+- Synthetic Data Generation (OffChain, and, OnChain).
 
 # Core Methods
 
