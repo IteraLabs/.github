@@ -19,6 +19,4 @@ And thus, we focus on statistical soundness and parametric stability for the mod
 
 # Projects
 
-- [atelier-rs](https://github.com/iteralabs/atelier-rs) : Rust Engine for High Frequency, Synthetic and Historical, Market Microstructure Modeling.
-- [luciene-sl](https://github.com/iteralabs/luciene-sl) : Transparent and Stateless Agent for OnChain Risk Modeling.
-- [supermass-rs](https://github.com/iteralabs/supermass-rs) : Subsequential Timeseries Clustering for anomaly detection in Timeseries data.
+- [atelier-sdk](https://github.com/iteralabs/atelier-sdk) : SDK For the Rust Engine for High Frequency, Synthetic and Historical, Market Microstructure Modeling.
