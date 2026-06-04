@@ -1,3 +1,6 @@
+
+![iteralabs](https://github.com/IteraLabs/.github/blob/main/profile/IteraLabs_Banner_v3.png)
+
 At Iteralabs we believe in one core principle: To achieve consequential engineering results, science goes before hype. 
 
 > “Most people use statistics like a drunk man uses a lamppost; more for support than illumination”
