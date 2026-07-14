@@ -22,4 +22,4 @@ And thus, we focus on statistical soundness and parametric stability for the mod
 
 # Projects
 
-- [atelier-sdk](https://github.com/iteralabs/atelier-sdk) : SDK For the Rust Engine for High Frequency, Synthetic and Historical, Market Microstructure Modeling.
+- Aetelier Research Infrastructure : www.aetelier.xyz
