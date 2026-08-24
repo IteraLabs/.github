@@ -1,7 +1,5 @@
 
-![iteralabs](https://github.com/IteraLabs/.github/blob/main/profile/IteraLabs_Banner_v3.png)
-
-At Iteralabs we believe in one core principle: To achieve consequential engineering results, science goes before hype. 
+![banner](https://github.com/aetelierxyz/.github/blob/main/aetelier-github-reduced-banner-1400x350-light.png)
 
 > “Most people use statistics like a drunk man uses a lamppost; more for support than illumination”
   ― Andrew Lang
@@ -10,7 +8,7 @@ And thus, we focus on statistical soundness and parametric stability for the mod
 
 # Problem space
 
-- Classical ML OnChain Computation.
+- Distributed Machine Learning.
 - DeFi Market Making, Order Routing and Risk Modeling.
 - Synthetic Data Generation (OffChain, and, OnChain).
 
@@ -18,8 +16,3 @@ And thus, we focus on statistical soundness and parametric stability for the mod
 
 - Classical ML and Quantitative Finance.
 - Distributed Convex Optimization Models.
-- Financial timeseries inner-pattern recognition (subsequential clustering).
-
-# Projects
-
-- Aetelier Research Infrastructure : www.aetelier.xyz
